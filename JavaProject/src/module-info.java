@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mayas
+ *
+ */
+module JavaProject {
+}

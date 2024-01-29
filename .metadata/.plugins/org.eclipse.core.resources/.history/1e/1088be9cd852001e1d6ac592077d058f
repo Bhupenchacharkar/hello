@@ -1,0 +1,13 @@
+package com.java;
+
+public class Bhi extends Java1{
+	public void eat() {
+		System.out.println("'bhupen");
+	}
+public static void main(String[] args) {
+Bhi d = new Bhi();
+d.eat();
+Java1 d2 = new Java1();
+d2.eat();
+}
+}

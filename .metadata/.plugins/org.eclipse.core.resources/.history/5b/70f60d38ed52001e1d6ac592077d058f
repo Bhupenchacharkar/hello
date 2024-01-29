@@ -1,0 +1,16 @@
+package com.java;
+
+public class Bhi {
+	public static void main(String[] args) {
+		
+	
+	int marks =70;
+
+	if(marks >= 70 && marks <90) {
+		System.out.println("b");
+	}else {
+		System.out.println("c");
+	}
+}}
+
+
